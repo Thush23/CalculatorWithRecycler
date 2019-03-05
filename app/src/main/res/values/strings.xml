@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint_number">Please enter a Number</string>
+    <string name="label_add">Add</string>
+    <string name="show_logs">Show Logs</string>
+    <string name="save">Save</string>
+    <string name="greeting">Hello %1$s</string>
+</resources>
